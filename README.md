@@ -5,6 +5,7 @@
 ### 10/32
 [![asciicast](https://asciinema.org/a/1bZc7Zlrk3rjClPGprHgmsvsT.svg)](https://asciinema.org/a/1bZc7Zlrk3rjClPGprHgmsvsT)
 ### 20/32
+[![asciicast](https://asciinema.org/a/yjGUhvBzIhu5qnLTemNTK69mH.svg)](https://asciinema.org/a/yjGUhvBzIhu5qnLTemNTK69mH)
 
 ### 32/32
 ## 8 programas dificultada dificil ASCIINEMA
