@@ -9,4 +9,4 @@
 ### 32/32
 [![asciicast](https://asciinema.org/a/RxGFQCT9AVoLc9Fzzpi1ITFs7.svg)](https://asciinema.org/a/RxGFQCT9AVoLc9Fzzpi1ITFs7)
 
-## 8 programas dificultada dificil ASCIINEMA
+## 8 programas dificultad dificil ASCIINEMA
