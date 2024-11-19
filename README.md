@@ -8,5 +8,5 @@
 [![asciicast](https://asciinema.org/a/yjGUhvBzIhu5qnLTemNTK69mH.svg)](https://asciinema.org/a/yjGUhvBzIhu5qnLTemNTK69mH)
 ### 32/32
 [![asciicast](https://asciinema.org/a/RxGFQCT9AVoLc9Fzzpi1ITFs7.svg)](https://asciinema.org/a/RxGFQCT9AVoLc9Fzzpi1ITFs7)
-
 ## 8 programas dificultad dificil ASCIINEMA
+[![asciicast](https://asciinema.org/a/2QWgXktyUbvYNkzM3gBsHJ8nA.svg)](https://asciinema.org/a/2QWgXktyUbvYNkzM3gBsHJ8nA)
